@@ -1,7 +1,7 @@
 ## Hi there👋
 --->🐱
 
-![JoseZepeda GitHub stats](https://github-readme-stats.vercel.app/api?username=lemontyc) 
+![JoseZepeda GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseZepeda) 
 
 
 <!---
